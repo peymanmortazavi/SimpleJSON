@@ -1,0 +1,6 @@
+framework module SimpleJSON {
+  umbrella header "SimpleJSON-umbrella.h"
+
+  export *
+  module * { export * }
+}
